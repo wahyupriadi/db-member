@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Budi Natan",
+            "phone": "081233334444"
+        },
+        {
+            "id": 2,
+            "name": "Herna Hidayah",
+            "phone": "081556568080"
+        },
+        {
+            "id": 3,
+            "name": "Tilo Yosieto",
+            "phone": "081383839090"
+        },
+        {
+            "id": 4,
+            "name": "Ulfah Batusura",
+            "phone": "081824245858"
+        },
+        {
+            "id": 5,
+            "name": "Erlangga Setyo",
+            "phone": "081798077089"
+        },
+        {
+            "id": 6,
+            "name": "Ratu Wendi",
+            "phone": "081319913456"
+        },
+        {
+            "id": 7,
+            "name": "Bejo Wiryono",
+            "phone": "0819554678329"
+        },
+        {
+            "id": 8,
+            "name": "Damayanti Sutedja",
+            "phone": "085709872345"
+        },
+        {
+            "id": 9,
+            "name": "Teungku Setyawan",
+            "phone": "085887876464"
+        },
+        {
+            "id": 10,
+            "name": "Wiwik Tindo",
+            "phone": "081840392817"
+        }
+    ]
+}
